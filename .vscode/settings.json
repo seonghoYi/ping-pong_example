@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "thread.h": "c",
+    "signal.h": "c",
+    "condition_variable": "c",
+    "complex": "c"
+  }
+}
